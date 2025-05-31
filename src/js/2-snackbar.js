@@ -1,5 +1,5 @@
 import iziToast from "izitoast";
-import "iziToast/dist/css/iziToast.min.css";
+// import "iziToast/dist/css/iziToast.min.css";
 
 const form = document.querySelector(".form");
 
