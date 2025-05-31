@@ -9,7 +9,7 @@ form.addEventListener("submit", (evt) => {
     const delayInput = evt.currentTarget.elements.delay.value;
     const stateRadio = evt.currentTarget.elements.state.value;
 
-    console.log("wwww");
+    
     
     
     const promise = new Promise((resolve, reject) => {
